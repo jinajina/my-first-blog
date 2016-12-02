@@ -25,7 +25,7 @@ SECRET_KEY = '4q^gpu*gdnc5gywrj$l+j7i_$=hh-+wkgjoyp0aj0%vna2q7!3'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['jina.pythonanywhere.com']
 
 
 # Application definition
